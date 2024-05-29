@@ -80,7 +80,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="app">
-        <h1>Classy Weather App</h1>
+        <h1>Classy Weather</h1>
         <div>
           <input
             type="text"
